@@ -1,1 +1,19 @@
-{}
+{
+    "sender": {
+        "street": "Stationsstraat",
+        "number": 34,
+        "city": "Lebbeke",
+        "zipcode": 8280
+    },
+    "receiver": {
+        "street": "Stationsstraat",
+        "number": 34,
+        "city": "Lebbeke",
+        "zipcode": 8280
+    },
+    "stamps": [
+        {
+            "value": 5
+        }
+    ]
+}
